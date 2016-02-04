@@ -1134,19 +1134,6 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4196-4-4"
-       x="-0.20235951"
-       width="1.404719"
-       y="-0.20235951"
-       height="1.404719">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="19.730053"
-         id="feGaussianBlur4198-6-8" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
        id="filter4098-5-1">
       <feGaussianBlur
          inkscape:collect="always"
@@ -1183,6 +1170,46 @@
        gradientUnits="userSpaceOnUse"
        id="radialGradient3303"
        xlink:href="#linearGradient4019-7-1"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4098-5-7">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2802989"
+         id="feGaussianBlur4100-7-6" />
+    </filter>
+    <radialGradient
+       r="117"
+       fy="54.096375"
+       fx="-51.944992"
+       cy="54.096375"
+       cx="-51.944992"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4235-8"
+       xlink:href="#linearGradient4019-7-7"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4019-7-7">
+      <stop
+         style="stop-color:#e6eaec;stop-opacity:1;"
+         offset="0"
+         id="stop4021-7-0" />
+      <stop
+         style="stop-color:#9aaab5;stop-opacity:1;"
+         offset="1"
+         id="stop4023-3-0" />
+    </linearGradient>
+    <radialGradient
+       r="117"
+       fy="54.096375"
+       fx="-51.944992"
+       cy="54.096375"
+       cx="-51.944992"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3313"
+       xlink:href="#linearGradient4019-7-7"
        inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
@@ -1835,6 +1862,47 @@
          sodipodi:nodetypes="ccccccccccc"
          inkscape:connector-curvature="0"
          id="path4114-3-0-8-9-8-8"
+         d="m -719.36723,-81.590956 c 4.88792,-12.733142 8.91721,-16.88001 13.08368,-22.398764 l 3.33814,8.583766 c 21.88251,-8.482186 41.06469,-11.863746 57.2251,-9.537516 l -1.01296,-7.31636 c 5.18465,4.45942 7.30897,6.52188 9.79037,13.531747 0.0454,4.561919 -0.65349,12.578197 -4.14467,16.436213 l -1.05616,-8.106888 c -12.00102,5.834479 -35.84804,7.699211 -57.70199,11.206581 l 1.10257,8.225313 c -6.52845,-2.211625 -13.85258,-5.488654 -20.62408,-10.624092 z"
+         style="fill:#596b77;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3313);fill-opacity:1;stroke:none"
+       id="path3115-9-2-8-2-2-19-3-30"
+       sodipodi:cx="-16"
+       sodipodi:cy="105.36218"
+       sodipodi:rx="117"
+       sodipodi:ry="117"
+       d="m 101,105.36218 a 117,117 0 1 1 -234,0 117,117 0 1 1 234,0 z"
+       transform="matrix(0.42735043,0,0,0.42735043,-895.05706,-191.49054)"
+       inkscape:export-filename="/home/sbe/projects/itowns-project/graphics/itowns_sphere_100_deluxe_grey_wtht_shadow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#4f5f6b;fill-opacity:0.61883407;stroke:none;filter:url(#filter4098-5-7)"
+       d="m -905.20717,-188.4199 c -3.54261,3.15605 -5.02499,7.3548 -7.8125,13.53125 0,0 6.38188,-1.15625 7.8125,-1.15625 2.56195,5.6602 4.76573,11.47853 6.59375,17.3125 -7.65479,1.71982 -15.73309,4.21076 -24.21875,7.5 l -3.34375,-8.59375 c -4.16647,5.51875 -8.20583,9.67311 -13.09375,22.40625 6.7715,5.13544 14.09655,8.41338 20.625,10.625 l -1.09375,-8.21875 c 8.65176,-1.38853 17.58218,-2.52813 26,-3.75 1.51749,8.39428 2.34071,16.52632 2.46875,23.96875 l -8.4375,1.71875 c 0,0 12.32282,13.466827 13.375,12.90625 5.92736,-3.15796 16.36207,-16.4472 15.5,-17.09375 l -5.875,0.53125 c 0.88824,-9.03587 0.76253,-17.24416 -0.21875,-24.875 5.88687,-1.24589 10.99599,-2.73916 14.875,-4.625 l 1.0625,8.125 c 3.49118,-3.85801 4.20165,-11.87558 4.15625,-16.4375 -2.4814,-7.00986 -4.5966,-9.07183 -9.78125,-13.53125 l 1,7.3125 c -5.08694,-0.73225 -10.48051,-0.91118 -16.15625,-0.53125 -2.29031,-6.15337 -5.20632,-11.94696 -8.6875,-17.5 l 5.78125,-0.46875 c -6.26632,-3.64778 -11.23426,-7.78784 -20.53125,-9.15625 z"
+       id="path4116-1-6-7-91-4-2-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/sbe/projects/itowns-project/graphics/itowns_sphere_100_deluxe_grey_wtht_shadow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-217.89467,-59.826147)"
+       id="g4027-7-9"
+       inkscape:export-filename="/home/sbe/projects/itowns-project/graphics/itowns_sphere_100_deluxe_grey_wtht_shadow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#596b77;fill-opacity:1;stroke:none">
+      <path
+         sodipodi:nodetypes="cccccccsccc"
+         inkscape:connector-curvature="0"
+         id="path4116-1-6-7-91-42-9"
+         d="m -685.30101,-120.2035 c -1.43062,0 -7.83804,1.14738 -7.83804,1.14738 2.78751,-6.17645 4.29543,-10.3901 7.83804,-13.54615 9.29699,1.36841 14.25375,5.50247 20.52007,9.15025 l -5.78172,0.49128 c 10.72528,17.10855 16.26658,36.371748 13.74045,62.069508 l 5.87067,-0.536514 c 0.86207,0.646549 -9.57067,13.933892 -15.49803,17.091852 -1.05218,0.560574 -13.36736,-12.919989 -13.36736,-12.919989 l 8.43494,-1.72828 c -0.31515,-18.317801 -4.65781,-40.758257 -13.91902,-61.219337 z"
+         style="fill:#596b77;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4114-3-0-8-9-8-9"
          d="m -719.36723,-81.590956 c 4.88792,-12.733142 8.91721,-16.88001 13.08368,-22.398764 l 3.33814,8.583766 c 21.88251,-8.482186 41.06469,-11.863746 57.2251,-9.537516 l -1.01296,-7.31636 c 5.18465,4.45942 7.30897,6.52188 9.79037,13.531747 0.0454,4.561919 -0.65349,12.578197 -4.14467,16.436213 l -1.05616,-8.106888 c -12.00102,5.834479 -35.84804,7.699211 -57.70199,11.206581 l 1.10257,8.225313 c -6.52845,-2.211625 -13.85258,-5.488654 -20.62408,-10.624092 z"
          style="fill:#596b77;fill-opacity:1;stroke:none" />
     </g>
