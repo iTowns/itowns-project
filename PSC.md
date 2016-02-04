@@ -1,8 +1,8 @@
 # iTowns Project Steering Committee Guidelines
 
-Date  2016/02/03
-Author Vincent Picavet    
-Contact vincent.picavet@oslandia.com
+* Date  2016/02/03
+* Author Vincent Picavet    
+* Contact vincent.picavet@oslandia.com
 
 ## Summary
 
