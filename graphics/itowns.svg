@@ -1240,7 +1240,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1874,7 +1874,7 @@
        sodipodi:rx="117"
        sodipodi:ry="117"
        d="m 101,105.36218 a 117,117 0 1 1 -234,0 117,117 0 1 1 234,0 z"
-       transform="matrix(0.42735043,0,0,0.42735043,-895.05706,-191.49054)"
+       transform="matrix(0.85470085,0,0,0.85470085,-136.12914,-162.33315)"
        inkscape:export-filename="/home/sbe/projects/itowns-project/graphics/itowns_sphere_100_deluxe_grey_wtht_shadow.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1885,9 +1885,10 @@
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/sbe/projects/itowns-project/graphics/itowns_sphere_100_deluxe_grey_wtht_shadow.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       transform="matrix(2,0,0,2,1653.985,220.64792)" />
     <g
-       transform="translate(-217.89467,-59.826147)"
+       transform="matrix(2,0,0,2,1218.1956,100.99563)"
        id="g4027-7-9"
        inkscape:export-filename="/home/sbe/projects/itowns-project/graphics/itowns_sphere_100_deluxe_grey_wtht_shadow.png"
        inkscape:export-xdpi="90"
